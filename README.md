@@ -18,7 +18,7 @@ Just fork this and submit. Try to keep the styling consistant and alphabetized.
  * [Furnace](http://docs.factorcode.org/content/article-furnace.html) - "The furnace vocabulary implements a full-featured web framework on top of the [Factor] HTTP server."
 
 ## Javascript
-"Express is a very small framework, the 3.0.0 release is only 932 SLOC, and the mandatory portion of Connect which Express is built on is only 267 SLOC. The optional middleware bundled with Connect add an additional 1143 SLOC, and are lazy loaded upon use."
+ * [ExpressJS](http://expressjs.com/) - "Express is a very small framework, the 3.0.0 release is only 932 SLOC, and the mandatory portion of Connect which Express is built on is only 267 SLOC. The optional middleware bundled with Connect add an additional 1143 SLOC, and are lazy loaded upon use."
 
 ## Nimrod
  * [Jester](https://github.com/dom96/jester) - "A sinatra-like web framework for Nimrod."

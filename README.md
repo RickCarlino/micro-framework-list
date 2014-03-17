@@ -24,7 +24,7 @@ Just fork this and submit. Try to keep the styling consistant and alphabetized.
  * [Jester](https://github.com/dom96/jester) - "A sinatra-like web framework for Nimrod."
 
 ## Python
- * [Flash](http://flask.pocoo.org/) - "Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. And before you ask: It's BSD licensed!"
+ * [Flask](http://flask.pocoo.org/) - "Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. And before you ask: It's BSD licensed!"
 
 ## Ruby
  * [Camping](http://camping.io/) - "a small web framework, less than 4k, a little white blood cell in the vein of Rails"

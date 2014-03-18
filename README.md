@@ -19,6 +19,7 @@ Just fork this and submit. Try to keep the styling consistant and alphabetized.
 
 ## Javascript
  * [ExpressJS](http://expressjs.com/) - "Express is a very small framework, the 3.0.0 release is only 932 SLOC, and the mandatory portion of Connect which Express is built on is only 267 SLOC. The optional middleware bundled with Connect add an additional 1143 SLOC, and are lazy loaded upon use."
+ * TODO: Every framework mentioned in [this article](http://codecondo.com/7-minimal-node-js-web-frameworks/)
 
 ## Nimrod
  * [Jester](https://github.com/dom96/jester) - "A sinatra-like web framework for Nimrod."
